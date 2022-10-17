@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="top_home_stories">Top Home Stories</string>
+    <string name="loading">Loading ...</string>
+    <string name="published_date">Published Date</string>
+    <string name="story_title">Story Title</string>
+</resources>
